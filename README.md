@@ -8,4 +8,4 @@ All audio processing is performed locally on the device. No audio recordings are
 TurnTimer does not use analytics, advertising, tracking, or third-party SDKs.
 
 If you have any questions about this Privacy Policy, you can contact:
-alexciprian@email.com
+aciprianlopez@email.com
